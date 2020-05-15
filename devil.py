@@ -90,8 +90,8 @@ def tik():
 
 
 back = 0
-opn kar lo = []
-7 day bad opn karo = []
+berhasil = []
+cekpoint = []
 oks = []
 id = []
 listgrup = []
